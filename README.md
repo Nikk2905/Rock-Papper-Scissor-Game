@@ -6,39 +6,31 @@ A simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 🎮 Rock Paper Scissors Game
 
 🌟 Features
-Interactive gameplay with instant results
+Interactive gameplay with instant results.
 
-Random computer choice using JavaScript logic
+Random computer choice using JavaScript logic.
 
-Real-time score tracking
+Real-time score tracking.
 
-Stylish and responsive design
+Stylish and responsive design.
 
-Easy to use and beginner-friendly
+Easy to use and beginner-friendly.
 
 💻 Technologies Used
-HTML – to structure the web page
+HTML – to structure the web page.
 
-CSS – to add visual style and layout
+CSS – to add visual style and layout.
 
-JavaScript – to handle game logic and interactivity
+JavaScript – to handle game logic and interactivity.
 
 📌 How to Play
-Click on Rock, Paper, or Scissors
+Click on Rock, Paper, or Scissors.
 
-The computer picks its move randomly
+The computer picks its move randomly.
 
-The result (Win/Lose/Draw) is shown instantly
+The result (Win/Lose/Draw) is shown instantly.
 
-Scores are updated accordingly
+Scores are updated accordingly.
 
-🚀 Getting Started
-Clone the repository and open the index.html file in your browser:
-
-bash
-Copy code
-git clone https://github.com/yourusername/rock-paper-scissors.git
-cd rock-paper-scissors
-open index.html
 🎯 Purpose
 This project is perfect for beginners looking to practice DOM manipulation, event handling, and basic JavaScript logic. It demonstrates how to build a fully functional mini-game from scratch.
