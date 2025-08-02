@@ -34,3 +34,6 @@ Scores are updated accordingly.
 
 🎯 Purpose
 This project is perfect for beginners looking to practice DOM manipulation, event handling, and basic JavaScript logic. It demonstrates how to build a fully functional mini-game from scratch.
+<br>
+
+-By Nikhil Kumar
